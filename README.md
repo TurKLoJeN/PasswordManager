@@ -1,5 +1,5 @@
 # PasswordManager
- Akınsoft Password Manager
+ Akınsoft firması için geliştirdiğim Password Manager
 
 ![Screenshot_1](https://github.com/TurKLoJeN/PasswordManager/assets/32311900/d53a66b6-e9ee-4210-ad3b-5907ab8970b5)
 ![Screenshot_2](https://github.com/TurKLoJeN/PasswordManager/assets/32311900/f7bcb56b-df32-4e56-9c0e-0d74d38c7ffc)
